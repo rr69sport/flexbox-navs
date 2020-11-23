@@ -18,7 +18,9 @@
 }
 ```
 
-# html
+## html
+
+![Solo a la izquierda](assets/a.png)
 
 ```html
     <!-- Un elemento a la izquierda -->
@@ -42,6 +44,11 @@
             </li>
         </ul>
     </nav>
+```
+
+![Solo a la izquierda](assets/b.png)
+
+```html
     <!-- Un elemento al centro -->
     <nav class="main-nav">
         <ul class="menu">
@@ -63,7 +70,11 @@
             </li>
         </ul>
     </nav>
+```
 
+![Solo a la izquierda](assets/c.png)
+
+```html
     <!-- 3 elementos al centro -->
     <nav class="main-nav">
         <ul class="menu">
@@ -84,7 +95,11 @@
             </li>
         </ul>
     </nav>
+```
 
+![Solo a la izquierda](assets/d.png)
+
+```html
     <!-- Un elemento a la derecha -->
     <nav class="main-nav">
         <ul class="menu">
