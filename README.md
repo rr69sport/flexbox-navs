@@ -1,5 +1,7 @@
 # Menus de navegación con Flexbox
 
+## css
+
 ```css
 .menu {
     display: flex;
@@ -15,6 +17,8 @@
     margin-left: auto;
 }
 ```
+
+# html
 
 ```html
     <!-- Un elemento a la izquierda -->
